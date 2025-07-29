@@ -2,11 +2,11 @@
 
 This is a step-by-step guide to uploading your figure data to the IPCC AR7 GitHub repository.
 
-1. [Create a directory for your data](https://github.com/mollymacrae/test-IPCC/edit/main/Chapter1/README.md#create-a-directory-for-your-data)
+1. [Create a directory for your data](https://github.com/mollymacrae/test-IPCC/tree/main/Chapter1#create-a-directory-for-your-data)
 
-2. [Filling out the readme.txt file for your figure data](https://github.com/mollymacrae/test-IPCC/edit/main/Chapter1/README.md#fill-out-the-readmetxt-for-your-figure-data)
+2. [Filling out the readme.txt file for your figure data](https://github.com/mollymacrae/test-IPCC/tree/main/Chapter1#fill-out-the-readmetxt-for-your-figure-data)
    
-3. [Upload your figure data](https://github.com/mollymacrae/test-IPCC/edit/main/Chapter1/README.md#upload-your-figure-data)
+3. [Upload your figure data](https://github.com/mollymacrae/test-IPCC/tree/main/Chapter1#upload-your-figure-data)
 
 ## Create a directory for your data
 To add figure data, first create a folder with name **ch1_fig<number>** (e.g. ch1_fig3) by clicking 'Add file' > 'Create new file'.
