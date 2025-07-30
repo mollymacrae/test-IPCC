@@ -16,9 +16,9 @@ Click 'Commit changes' then 'Commit changes' again when a box appears.
 
 You should now have a folder for your chapter figure.
 
-Create new file: <img width="1057" height="340" alt="createnewfile" src="https://github.com/user-attachments/assets/77059192-d885-4662-b72f-686fdc2aca10" />
+**Create new file:** <img width="1057" height="340" alt="createnewfile" src="https://github.com/user-attachments/assets/77059192-d885-4662-b72f-686fdc2aca10" />
 
-Commit changes: <img width="1070" height="672" alt="image" src="https://github.com/user-attachments/assets/0b6f2878-6361-4127-a539-b9412e9342d7" />
+**Commit changes:** <img width="1070" height="672" alt="image" src="https://github.com/user-attachments/assets/0b6f2878-6361-4127-a539-b9412e9342d7" />
 
 
 ## Fill out the Readme.txt for your figure data
@@ -33,9 +33,9 @@ Click the green 'commit changes' box again.
 
 Your data should now be uploaded in the folder you have created.
 
-Upload files: <img width="1062" height="384" alt="image" src="https://github.com/user-attachments/assets/6a096028-202e-4fbf-9325-5d1d7cbd3d1c" />
+**Upload files:** <img width="1062" height="384" alt="image" src="https://github.com/user-attachments/assets/6a096028-202e-4fbf-9325-5d1d7cbd3d1c" />
 
 
-Commit changes: <img width="1051" height="724" alt="image" src="https://github.com/user-attachments/assets/02fbeff9-f361-4419-83eb-cd3d885d30dc" />
+**Commit changes:** <img width="1051" height="724" alt="image" src="https://github.com/user-attachments/assets/02fbeff9-f361-4419-83eb-cd3d885d30dc" />
 
 
