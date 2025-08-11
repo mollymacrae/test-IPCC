@@ -14,7 +14,7 @@ Name your file **ch-_fig-/Readme.txt** (replacing '-' with the chapter and figur
 
 Click 'Commit changes' then 'Commit changes' again when a box appears.
 
-You should now have a folder for your chapter figure.
+You should now have a folder for your chapter figure that contains a readme file.
 
 **Create new file:** <img width="1057" height="340" alt="createnewfile" src="https://github.com/user-attachments/assets/77059192-d885-4662-b72f-686fdc2aca10" />
 
