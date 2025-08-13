@@ -1,0 +1,65 @@
+{ "title": "Chapter —- of the Working Group I Contribution to the IPCC Seventh Assessment Report - Input data for Figure – (vyyyymmdd)",
+
+  "description": "This dataset contains the input data for Figure —- from Chapter – of the Working Group I (WGI) Contribution to the Intergovernmental Panel on Climate Change (IPCC) Seventh Assessment Report (AR7). Additional information, including how to cite this figure dataset, is provided in the README.txt alongside the data.
+
+Figure —– caption: [Insert figure caption title] 
+[Insert caption text]
+
+Links to the figure, report chapter and supplementary material are provided in the Details/Docs section of this catalogue record. Code to reproduce the figure which is hosted on GitHub is also linked, and described under the Process tab below.",
+
+  "authors": [
+    { 'firstname': '[insert authors]',
+      'surname': ''
+    },
+    { 'firstname': '',
+      'surname': ''
+    }],
+
+  "keywords": 'IPCC-DDC, IPCC, AR7, WG1, WGI, Seventh Assessment Report, Working Group I, Physical Science Basis, Intergovernmental Panel on Climate Change, rest of keywords for chapter/figure',
+
+  "logo" : 218,
+
+  "bbox": {
+    "north": "90.00",
+    "south": "-90.00",
+    "east": "180.00",
+    "west": "-180.00"
+  },
+
+  "time_range": {
+    "start": "1900-01-01T12:00:00Z",
+    "end": "2014-12-31T12:00:00Z"
+  },
+
+  "lineage": "Data produced by Intergovernmental Panel on Climate Change (IPCC) authors and supplied for archiving at the Centre for Environmental Data Analysis (CEDA) by the Technical Support Unit (TSU) for IPCC Working Group I (WGI).\n
+  Data curated on behalf of the IPCC Data Distribution Centre (IPCC-DDC).",
+
+  "quality": "Data as provided by the IPCC",
+  
+  "project": {
+    "catalogue_url": "https://catalogue.ceda.ac.uk/uuid/3fce2536dbdb48f393ca6fe07fbcf281/",
+},
+
+  "computation": {
+    "catalogue_url": "",
+    "title": "Computation for IPCC AR7 figure –",
+    "description": "	
+This figure can be reproduced using the following code:
+[LINK TO GITHUB]
+Instructions on how to use the code is provided in the repository. "
+  },
+
+  "docs": [
+    { "title": "",
+      "url": ""},
+    { "title": "",
+      "url": ""}
+  ],
+
+  "format": "Data are netCDF formatted",
+
+  "result_path": "/badc/ar7_wg1/data/ch_-/ch-_fig–/vyyyymmdd",
+
+ "ceda_officer":  {"firstname": "", "surname": ""}
+
+}
